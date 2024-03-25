@@ -24,3 +24,16 @@ php artisan jetstream:install inertia --pest
 
 (4)
 php artisan test
+
+(5) Run
+php artisan serve
+
+=================
+# Artisan Commands
+
+php artisan make:model
+factory, migration, policy, resource
+
+php artisan migrate:fresh --seed
+
+php artisan route:list
